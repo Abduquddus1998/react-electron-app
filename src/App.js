@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <div>First React Electron Desktop Application</div>
       </header>
     </div>
   );
